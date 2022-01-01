@@ -14,4 +14,6 @@ I'm Nick Pietrow. I'm a passionate learner who always loves to explore new techn
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m currently learning full stack development
+
+- 📫 How to reach me **[Nick Pietrow](https://linktr.ee/nick__p)**
