@@ -10,7 +10,7 @@ I'm Nick Pietrow. I'm a passionate learner who always loves to explore new techn
 </p>
 
 <!-- Personal Stuffs -->
-<h3> Talking about personal stuffs:</h3>
+<h3> Stuff about me:</h3>
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 
