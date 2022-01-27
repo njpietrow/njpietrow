@@ -4,7 +4,7 @@
 
 <!-- About me -->
 <p>
-I'm Nick Pietrow. I like to code and create solutions to problems ✨. I'm currently leaning about full stack development 🕸️ and working with data visualition tools 🤓.
+I'm Nick Pietrow. I like to code and create solutions to problems ✨. I'm currently leaning full stack development and working with data visualition tools 🤓.
 </p>
 
 <!-- Personal Stuffs -->
