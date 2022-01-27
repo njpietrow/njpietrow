@@ -4,7 +4,7 @@
 
 <!-- About me -->
 <p>
-I'm Nick Pietrow. I'm a passionate learner who always loves to explore new technologies and solve real-life problems ✨. I'm currently leaning about full stack development 🕸️ and working with data visualition tools 🤓.
+I'm Nick Pietrow. I like to code and create solutions to problems ✨. I'm currently leaning about full stack development 🕸️ and working with data visualition tools 🤓.
 </p>
 
 <!-- Personal Stuffs -->
