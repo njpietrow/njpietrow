@@ -10,7 +10,7 @@ I'm Nick Pietrow. I like to code and create solutions to problems ✨. I'm curre
 <!-- Personal Stuffs -->
 <h3> Stuff about me:</h3>
 
-- 👨🏽‍💻 I’m currently working on something cool 😉
+- 👨🏽‍💻 I’m working on something cool 😉
 
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m learning full stack development
 
