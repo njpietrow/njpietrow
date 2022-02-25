@@ -4,7 +4,7 @@
 
 <!-- About me -->
 <p>
-Hey there! I'm Nick Pietrow. I like to create projects that haven't been done before and I'm currently leaning full stack development at App Academy. 
+Hey there! I'm Nick Pietrow. I like to create projects that haven't been done before. I'm currently leaning full stack development at App Academy. 
 </p>
 
 <!-- Personal Stuff -->
