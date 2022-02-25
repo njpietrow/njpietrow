@@ -4,12 +4,13 @@
 
 <!-- About me -->
 <p>
-Hey there! I'm Nick Pietrow. I like to create projects that haven't been done before. I'm currently leaning full stack development at App Academy. 
-</p>
+Hey there! I'm Nick Pietrow. I like to create projects that haven't been done before.
+<p>
 
 <!-- Personal Stuff -->
-<h3> Stuff about me:</h3>
+**Stuff about me:**
 👨🏽‍💻 I’m working on something cool
 
-🌱 I’m learning full stack development
+🌱 I'm currently leaning full stack development at App Academy. 
+
 
