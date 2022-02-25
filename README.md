@@ -4,12 +4,12 @@
 
 <!-- About me -->
 <p>
-I'm Nick Pietrow. I like to code and create solutions to problems ✨. I'm currently leaning full stack development and working with data visualition tools 🦾.
+Hey there! I'm Nick Pietrow. I like to create projects that haven't been done before and I'm currently leaning full stack development at App Academy. 
 </p>
 
-<!-- Personal Stuffs -->
+<!-- Personal Stuff -->
 <h3> Stuff about me:</h3>
-👨🏽‍💻 I’m working on something cool 😉
+👨🏽‍💻 I’m working on something cool
 
 🌱 I’m learning full stack development
 
