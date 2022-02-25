@@ -12,6 +12,6 @@ I'm Nick Pietrow. I like to create projects that haven't been done before.
 <br>
 👨🏽‍💻 I’m working on something cool
 <br>
-🌱 I'm currently leaning full stack development at App Academy. 
+🌱 I'm currently leaning full stack development at App Academy
 
 
