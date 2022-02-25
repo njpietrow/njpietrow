@@ -4,6 +4,7 @@
 <!-- About me -->
 
 **Hey there!**
+<br>
 I'm Nick Pietrow. I like to create projects that haven't been done before.
 <br>
 <!-- Personal Stuff -->
