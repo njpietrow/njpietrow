@@ -1,7 +1,6 @@
 ## Hey there!
 I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving interesting problems and meeting new people.
 <br>
-<br>
 
 ### Stuff about me: 
 👨🏽‍💻 I'm working on something cool
@@ -36,6 +35,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 </p>
 
 <br>
+<br>
 
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true&theme=onedark" />
@@ -45,6 +45,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   <img alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow&hide_border=true&layout=compact&theme=onedark" />
 </div>
 
+<br>
 <br>
 
 <div align="left">
