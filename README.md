@@ -1,6 +1,8 @@
 ## Hey there!
 I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving interesting problems and meeting new people.
 <br>
+<img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt=""/>
+<br>
 <br>
 
 ### Stuff about me: 
@@ -13,7 +15,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <br>
 
 ### Languages and Tools:
-<p align="center">
+<p align="left">
   <img title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,21 +39,6 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank">
-    <img height="26" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/njpietrow" target="_blank">
-    <img height="26px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt=""/>
-  </div>
-</div>
-
-<br>
-<br>
-
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true&theme=onedark" />
 </div>
@@ -60,3 +47,13 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   <img alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow&hide_border=true&layout=compact&theme=onedark" />
 </div>
 
+<br>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank">
+    <img height="26" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/njpietrow" target="_blank">
+    <img height="26px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
