@@ -29,22 +29,22 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <br>
 
 ### Projects:
-<div align="center" style="display:flex; justify-content: space-around;">
-  <div >
+<div>
+  <div>
     <strong>The Verve</strong><br>
-    <a href="https://github.com/njpietrow/The-Verve">
+    <a href="https://github.com/njpietrow/The-Verve#readme">
       <img title="The Verve" width="300px" height="170px" src="https://raw.githubusercontent.com/njpietrow/The-Verve/main/readme_images/main_page.png" />
     </a>
   </div>
   <div>
     <strong>Hoppers</strong><br>
-    <a href="https://github.com/JonJWong/Hoppers">
+    <a href="https://github.com/JonJWong/Hoppers#readme">
       <img title="Hoppers" width="300px" height="170px" src="https://raw.githubusercontent.com/JonJWong/Hoppers/main/frontend/public/Screen%20Shot%202022-04-12%20at%204.37.53%20PM.png" />
     </a>
   </div>
   <div>
     <strong>Filter.io</strong><br>
-    <a href="https://github.com/njpietrow/Filter.io">
+    <a href="https://github.com/njpietrow/Filter.io#readme">
       <img title="Filter.io" width="300px" height="150px" src="https://raw.githubusercontent.com/njpietrow/Filter.io/main/assets/app_pic.png" />
     </a>
   </div>
