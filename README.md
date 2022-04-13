@@ -6,11 +6,11 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 ### Stuff about me: 
 🦾 Recent Software Engineer Graduate from App Academy
 <br>
-🌱 I'm currently learning how to use Docker
+🌱 Currently learning how to use Docker
 <br>
-🌊 I love surfing and enjoying the outdoors
+🌊 Love surfing and enjoying the outdoors
 <br>
-👯 I'm interested in contributing to open source projects
+👯 Interested in contributing to open source projects
 <br>
 <div align="left">
   <a href="mailto:njpietrow@gmail.com">
