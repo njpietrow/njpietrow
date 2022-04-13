@@ -16,18 +16,17 @@ I'm Nick Pietrow. I like to create projects that haven't been done before.
 <br>
 <br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p>
+  <details>
+    <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true" />
+  </details>
+</p>
 
-  <img align="left" alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow" />
-
-</details>
-
+<p>
+  <details>
+    <summary>:zap: Most Used Languages</summary>
+    <img align="left" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow" />
+  </details>
+</p>
 
