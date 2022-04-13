@@ -1,8 +1,6 @@
 ## Hey there!
 I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving interesting problems and meeting new people.
 <br>
-<img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt=""/>
-<br>
 <br>
 
 ### Stuff about me: 
@@ -56,4 +54,6 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   <a href="https://twitter.com/njpietrow" target="_blank">
     <img height="26px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt=""/>
 </div>
