@@ -1,6 +1,7 @@
 ## Hey there!
 I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving interesting problems and meeting new people.
 <br>
+<br>
 
 ### Stuff about me: 
 👨🏽‍💻 I'm working on something cool
@@ -10,7 +11,6 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 👯 I'm interested in contributing to open source projects
 <br>
 <br>
-
 ### Languages and Tools:
 <p align="left">
   <img title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,7 +35,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 </p>
 
 <br>
-<br>
+
 
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true&theme=onedark" />
