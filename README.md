@@ -4,13 +4,53 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <br>
 
 ### Stuff about me: 
-👨🏽‍💻 I'm working on something cool
+🦾 Recent Software Engineer Graduate from App Academy
 <br>
 🌱 I'm currently learning how to use Docker
 <br>
+🌊 I love surfing and enjoying the outdoors
+<br>
 👯 I'm interested in contributing to open source projects
 <br>
+<div align="left">
+  <a href="mailto:njpietrow@gmail.com">
+    <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank">
+    <img height="26px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://angel.co/u/nick-pietrow" target="_blank">
+    <img height="26px" src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt="profile view counter"/>
+</div>
+
 <br>
+
+### Projects:
+<div align="center" style="display:flex; justify-content: space-around;">
+  <div >
+    <strong>The Verve</strong><br>
+    <a href="https://github.com/njpietrow/The-Verve">
+      <img title="The Verve" width="300px" height="170px" src="https://raw.githubusercontent.com/njpietrow/The-Verve/main/readme_images/main_page.png" />
+    </a>
+  </div>
+  <div>
+    <strong>Hoppers</strong><br>
+    <a href="https://github.com/JonJWong/Hoppers">
+      <img title="Hoppers" width="300px" height="170px" src="https://raw.githubusercontent.com/JonJWong/Hoppers/main/frontend/public/Screen%20Shot%202022-04-12%20at%204.37.53%20PM.png" />
+    </a>
+  </div>
+  <div>
+    <strong>Filter.io</strong><br>
+    <a href="https://github.com/njpietrow/Filter.io">
+      <img title="Filter.io" width="300px" height="150px" src="https://raw.githubusercontent.com/njpietrow/Filter.io/main/assets/app_pic.png" />
+    </a>
+  </div>
+</div>
+
+
 ### Languages and Tools:
 <p align="left">
   <img title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,7 +76,6 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 
 <br>
 
-
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true&theme=onedark" />
 </div>
@@ -48,13 +87,4 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <br>
 <br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank">
-    <img height="26" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/njpietrow" target="_blank">
-    <img height="26px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt=""/>
-</div>
+
