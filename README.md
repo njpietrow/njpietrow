@@ -29,20 +29,19 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <br>
 
 ### Projects:
-<div>
+<div style="display:flex">
   <div>
     <strong>The Verve</strong><br>
     <a href="https://github.com/njpietrow/The-Verve#readme">
       <img title="The Verve" width="300px" height="170px" src="https://raw.githubusercontent.com/njpietrow/The-Verve/main/readme_images/main_page.png" />
     </a>
-    <a href="https://github.com/JonJWong/Hoppers#readme">
-      <img title="Hoppers" width="300px" height="170px" src="https://raw.githubusercontent.com/JonJWong/Hoppers/main/frontend/public/Screen%20Shot%202022-04-12%20at%204.37.53%20PM.png" />
-    </a>
   </div>
   <br>
   <div>
     <strong>Hoppers</strong><br>
-
+    <a href="https://github.com/JonJWong/Hoppers#readme">
+      <img title="Hoppers" width="300px" height="170px" src="https://raw.githubusercontent.com/JonJWong/Hoppers/main/frontend/public/Screen%20Shot%202022-04-12%20at%204.37.53%20PM.png" />
+    </a>
   </div>
   <br>
   <div>
