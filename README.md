@@ -41,11 +41,9 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
     <a href="https://github.com/JonJWong/Hoppers#readme"><img src="https://media.giphy.com/media/ToS01GnOnhWCGbjDkW/giphy.gif" alt="Hoppers-gif"></a></img>
   </div>
   <br>
-  <div>
-    <strong>Filter.io</strong><br>
-    <a href="https://github.com/njpietrow/Filter.io#readme">
-      <img title="Filter.io" width="300px" height="150px" src="https://raw.githubusercontent.com/njpietrow/Filter.io/main/assets/app_pic.png" />
-    </a>
+    <div>
+    <strong><a href="https://github.com/njpietrow/Filter.io#readme">Hoppers</strong></a> - Photobooth face filter application built using JavaScript<br>
+    <a href="https://github.com/njpietrow/Filter.io#readme"><img src="https://media.giphy.com/media/d7DzvSBdBiYGQulmFi/giphy.gif" alt="filterio-gif"></a></img>
   </div>
 </div>
 
