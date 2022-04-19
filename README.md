@@ -11,7 +11,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 🌊 Love surfing and enjoying the outdoors
 <br>
 👯 Interested in contributing to open source projects
-<br>
+
 ---
 <div align="left">
   <a href="mailto:njpietrow@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -29,7 +29,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   </a>
 </div>
 
-<br>
+
 ---
 ### Some Projects:
 <div style="display:flex">
@@ -50,7 +50,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   </div>
 </div>
 
-<br>
+
 ---
 ### Languages and Tools:
 <p align="left">
@@ -75,7 +75,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   &nbsp; <a href="#"><img title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 </p>
 
-<br>
+
 ---
 ### GitHub Profile Stats:
 
