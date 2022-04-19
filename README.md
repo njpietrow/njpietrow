@@ -13,17 +13,17 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 👯 Interested in contributing to open source projects
 <br>
 <div align="left">
-  <a href="mailto:njpietrow@gmail.com" target="_blank">
+  <a href="mailto:njpietrow@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank">
+  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank" rel="noopener noreferrer">
     <img height="26px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://angel.co/u/nick-pietrow" target="_blank">
+  <a href="https://angel.co/u/nick-pietrow" target="_blank" rel="noopener noreferrer">
     <img height="26px" src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
   <br>
-  <a href="#" target="_blank">
+  <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt="profile view counter"/>
   </a>
 </div>
