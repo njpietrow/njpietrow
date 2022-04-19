@@ -1,5 +1,6 @@
 ### Hey there!
 I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving interesting problems and meeting new people.
+
 ---
 
 ### Stuff about me: 
