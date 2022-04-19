@@ -1,7 +1,6 @@
-## Hey there!
+### Hey there!
 I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving interesting problems and meeting new people.
-<br>
-<br>
+---
 
 ### Stuff about me: 
 🦾 Recent Software Engineer Graduate from App Academy
@@ -11,8 +10,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 🌊 Love surfing and enjoying the outdoors
 <br>
 👯 Interested in contributing to open source projects
-
----
+<br>
 <div align="left">
   <a href="mailto:njpietrow@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -49,7 +47,6 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
     <a href="https://github.com/njpietrow/Filter.io#readme"><img src="https://media.giphy.com/media/d7DzvSBdBiYGQulmFi/giphy.gif" alt="filterio-gif"></a></img>
   </div>
 </div>
-
 
 ---
 ### Languages and Tools:
