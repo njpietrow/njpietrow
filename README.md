@@ -30,10 +30,10 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 
 ### Some Projects:
 <div style="display:flex">
-  <p align="center">
+  <div>
       <strong><a href="https://github.com/njpietrow/The-Verve#readme">The Verve</strong></a> - Fullstack clone of the Verve Coffee Roasters online store <br>
       <a href="https://github.com/njpietrow/The-Verve#readme"><img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif"></a></img>
-  </p>
+  </div>
   <br>
   <div>
     <strong>Hoppers</strong><br>
