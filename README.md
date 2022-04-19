@@ -76,6 +76,8 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 
 <br>
 
+### GitHub Profile Stats:
+
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true&theme=onedark" />
 </div>
