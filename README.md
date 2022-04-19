@@ -31,15 +31,14 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 ### Some Projects:
 <div style="display:flex">
   <div>
-      <strong><a href="https://github.com/njpietrow/The-Verve#readme">The Verve</strong></a> - Fullstack clone of the Verve Coffee Roasters online store <br>
-      <a href="https://github.com/njpietrow/The-Verve#readme"><img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif"></a></img>
+    <strong><a href="https://github.com/njpietrow/The-Verve#readme">The Verve</strong></a> - Fullstack clone of the Verve Coffee Roasters online store <br>
+    <a href="https://github.com/njpietrow/The-Verve#readme"><img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif"></a></img>
   </div>
   <br>
   <div>
-    <strong>Hoppers</strong><br>
-    <a href="https://github.com/JonJWong/Hoppers#readme">
-      <img title="Hoppers" width="300px" height="170px" src="https://raw.githubusercontent.com/JonJWong/Hoppers/main/frontend/public/Screen%20Shot%202022-04-12%20at%204.37.53%20PM.png" />
-    </a>
+  <div>
+    <strong><a href="https://github.com/JonJWong/Hoppers#readme">Hoppers</strong></a> - MERN Stack event planning website built in collaboration with 3 other engineers <br>
+    <a href="https://github.com/JonJWong/Hoppers#readme"><img src="https://media.giphy.com/media/ToS01GnOnhWCGbjDkW/giphy.gif" alt="Hoppers-gif"></a></img>
   </div>
   <br>
   <div>
