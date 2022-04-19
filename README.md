@@ -23,7 +23,9 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
     <img height="26px" src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt="profile view counter"/>
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt="profile view counter"/>
+  </a>
 </div>
 
 <br>
