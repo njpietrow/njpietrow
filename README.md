@@ -32,12 +32,10 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <div style="display:flex">
   <div>
     
-    <a href="https://github.com/njpietrow/The-Verve#readme">
       <p align="center">
          <a href="https://github.com/njpietrow/The-Verve#readme"> <strong>The Verve</strong><br></a>
         <img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif"></img>
       </p>
-    </a>
 <!--<img title="The Verve" width="300px" height="170px" src="https://raw.githubusercontent.com/njpietrow/The-Verve/main/readme_images/main_page.png" /> -->
     
   </div>
