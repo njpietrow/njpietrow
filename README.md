@@ -44,7 +44,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   </div>
   <br>
     <div>
-    <strong><a href="https://github.com/njpietrow/Filter.io#readme">Hoppers</strong></a> - Photobooth face filter application built using JavaScript<br>
+    <strong><a href="https://github.com/njpietrow/Filter.io#readme">Filter.io</strong></a> - Photobooth face filter application built using JavaScript<br>
     <a href="https://github.com/njpietrow/Filter.io#readme"><img src="https://media.giphy.com/media/d7DzvSBdBiYGQulmFi/giphy.gif" alt="filterio-gif"></a></img>
   </div>
 </div>
