@@ -79,10 +79,11 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&show_icons=true&hide_border=true&theme=onedark" />
-</div>
+  <img alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow&hide_border=true&layout=compact&theme=onedark" />
+  </div>
 
 <div align="left">
-  <img alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow&hide_border=true&layout=compact&theme=onedark" />
+
 </div>
 
 <br>
