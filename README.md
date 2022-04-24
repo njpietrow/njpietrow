@@ -75,6 +75,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 
 
 ---
+  
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&amp;hide_border=true&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117ff&amp;theme=dark"style="max-width: 50%;" width="490" />
   <img alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow&amp;hide_border=true&amp;bg_color=0d1117ff&amp;langs_count=10&amp;layout=compact&amp;theme=dark"style="max-width: 50%;" width="340"/>
 
