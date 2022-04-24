@@ -34,20 +34,18 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 <div style="display:flex">
   <div>
     <strong><a href="https://github.com/njpietrow/The-Verve#readme">The Verve</strong></a> - Fullstack clone of the Verve Coffee Roasters online store <br>
-    <details>
-      <a href="https://github.com/njpietrow/The-Verve#readme"><img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif">            </img></a>
-    </details>
+<!--       <a href="https://github.com/njpietrow/The-Verve#readme"><img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif">            </img></a> -->
   </div>
   <br>
   <div>
   <div>
     <strong><a href="https://github.com/JonJWong/Hoppers#readme">Hoppers</strong></a> - MERN Stack event planning website built in collaboration with 3 other engineers <br>
-    <a href="https://github.com/JonJWong/Hoppers#readme"><img src="https://media.giphy.com/media/ToS01GnOnhWCGbjDkW/giphy.gif" alt="Hoppers-gif"></a></img>
+<!--     <a href="https://github.com/JonJWong/Hoppers#readme"><img src="https://media.giphy.com/media/ToS01GnOnhWCGbjDkW/giphy.gif" alt="Hoppers-gif"></a></img> -->
   </div>
   <br>
     <div>
     <strong><a href="https://github.com/njpietrow/Filter.io#readme">Filter.io</strong></a> - Photobooth face filter application built using JavaScript<br>
-    <a href="https://github.com/njpietrow/Filter.io#readme"><img src="https://media.giphy.com/media/d7DzvSBdBiYGQulmFi/giphy.gif" alt="filterio-gif"></a></img>
+<!--     <a href="https://github.com/njpietrow/Filter.io#readme"><img src="https://media.giphy.com/media/d7DzvSBdBiYGQulmFi/giphy.gif" alt="filterio-gif"></a></img> -->
   </div>
 </div>
 
