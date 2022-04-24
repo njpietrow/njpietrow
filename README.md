@@ -73,8 +73,8 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
   &nbsp; <a href="#"><img title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 </p>
 
-
-### GitHub Profile Stats:
+---
+###
 
 <div align="left">
   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&amp;hide_border=true&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117ff&amp;theme=dark"style="max-width: 50%;" width="490" />
