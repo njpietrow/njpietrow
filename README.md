@@ -4,7 +4,7 @@ I'm Nick Pietrow. I'm a consultant turned software engineer who loves solving in
 ---
 
 ### Stuff about me: 
-🦾 I'm a Software Engineer at WorkRamp
+🦾 I'm a Software Engineer looking for my next role
 <br>
 🎓 Graduated from App Academy and USC
 <br>
