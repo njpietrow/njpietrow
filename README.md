@@ -1,5 +1,5 @@
 <h1> Hey there! </h1>
-I'm Nick Pietrow. I am a software engineer with a degree in Business Administration and Computer Science from USC. In the past few years I have helped companies as a software engineer, consultant, and business analyst. I also love solving interesting problems and meeting new people.
+I'm Nick Pietrow. I'm a software engineer with a degree in Business Administration and Computer Science from USC. In the past few years I have helped companies as a software engineer, consultant, and business analyst. I also love solving interesting problems and meeting new people.
 
 ---
 
