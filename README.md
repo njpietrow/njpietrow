@@ -1,5 +1,10 @@
 <h1> Hey there! </h1>
-I'm Nick Pietrow. I'm a software engineer with a degree in Business Administration and Computer Science from USC. In the past few years I have helped companies as a software engineer, consultant, and business analyst. I also love solving interesting problems and meeting new people.
+ I'm a software engineer looking for my next role 🧑 💼. I have experience creating complex features and improving 
+              efficiency in large web applications 🏗️. I last worked at
+              WorkRamp, a series C startup, where I was developing a modern Learning 
+              Management System. Before that, I worked as a consultant
+              specializing in tax automation. I'm also a proud USC alum ✌️ with a degree in Business Administration
+              and Computer Science.
 
 ---
 
