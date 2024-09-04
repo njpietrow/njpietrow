@@ -1,5 +1,5 @@
 <h1> Hey there! </h1>
- I'm a software engineer looking for my next role 🧑 💼. I have experience creating complex features and improving 
+ I'm a software engineer at Solar Turbines. I have experience building new features and improving 
               efficiency in large web applications 🏗️. I last worked at
               WorkRamp, a series C startup, where I was developing a modern Learning 
               Management System. Before that, I worked as a consultant
@@ -9,7 +9,7 @@
 ---
 
 ### Stuff about me: 
-🦾 I'm a Software Engineer looking for my next role
+🦾 I'm a software engineer at Solar Turbines
 <br>
 🎓 Graduated from App Academy and USC
 <br>
