@@ -1,6 +1,5 @@
 <h1> Hey there! </h1>
- I'm a software engineer at Solar Turbines. I have experience building new features and improving 
-              efficiency in large web applications 🏗️. I last worked at
+ I'm a software engineer at RetroRate. I have experience building new features and system design in a variety of applications.  🏗️. I last worked at
               WorkRamp, a series C startup, where I was developing a modern Learning 
               Management System. Before that, I worked as a consultant
               specializing in tax automation. I'm also a proud USC alum ✌️ with a degree in Business Administration
@@ -9,11 +8,9 @@
 ---
 
 ### Stuff about me: 
-🦾 I'm a software engineer at Solar Turbines
+🦾 Building at RetroRate 
 <br>
-🎓 Graduated from App Academy and USC
-<br>
-🌱 Currently learning how to use Docker
+🎓 USC Alum
 <br>
 🌊 Love surfing and enjoying the outdoors
 <br>
