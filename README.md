@@ -14,8 +14,6 @@
 <br>
 🌊 Love surfing and enjoying the outdoors
 <br>
-👯 Interested in contributing to open source projects
-<br>
 <div align="left">
 <!--   <a href="mailto:njpietrow@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
