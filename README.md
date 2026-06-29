@@ -2,7 +2,7 @@
  I'm a software engineer at RetroRate. I have experience building new features and system design in a variety of applications 🏗️. I last worked at
               WorkRamp, a series C startup, where I was developing a modern Learning 
               Management System. Before that, I worked as a consultant
-              specializing in tax automation. I'm also a proud USC alum ✌️ with a degree in Business Administration
+              specializing in tax automation. I'm also USC alum ✌️ with a degree in Business Administration
               and Computer Science.
 
 ---
