@@ -1,84 +1,43 @@
-<h1> Hey there! </h1>
- I'm a software engineer at RetroRate. I have experience building new features and system design in a variety of applications 🏗️. I last worked at
-              WorkRamp, a series C startup, where I was developing a modern Learning 
-              Management System. Before that, I worked as a consultant
-              specializing in tax automation. I'm also USC alum ✌️ with a degree in Business Administration
-              and Computer Science.
+# Hi, I'm Nick 👋
 
----
+I'm a full-stack software engineer in San Diego. I build production APIs, data pipelines, and web applications in **TypeScript/Node.js, React, Python, and C#/.NET**, and I like owning a system end to end with real tests, real observability, and performance measured under production load.
 
-### Stuff about me: 
-🦾 Building at RetroRate 
-<br>
-🎓 USC Alum
-<br>
-🌊 Love surfing and enjoying the outdoors
-<br>
-<div align="left">
-<!--   <a href="mailto:njpietrow@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/nickpietrow/" target="_blank" rel="noopener noreferrer">
-    <img height="26px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://angel.co/u/nick-pietrow" target="_blank" rel="noopener noreferrer">
-    <img height="26px" src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
-  </a>
-  <br>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=njpietrow&style=flat-square&color=blue" alt="profile view counter"/>
-  </a>
-</div>
+Most recently I was an engineer at **RetroRate**, a real-estate data platform. Before that I built analytics and control-panel software at **Solar Turbines** (a Caterpillar company), shipped LMS features at **WorkRamp**, and automated tax workflows as a consultant at **Baker Tilly**. USC alum (Business Administration, minor in Computer Science).
 
+[LinkedIn](https://www.linkedin.com/in/nickpietrow/) · [nickpietrow.com](https://www.nickpietrow.com) · [njpietrow@gmail.com](mailto:njpietrow@gmail.com)
 
----
-### Some Projects:
-<div style="display:flex">
-  <div>
-    <strong><a href="https://github.com/njpietrow/The-Verve#readme">The Verve</strong></a> - Fullstack clone of the Verve Coffee Roasters online store <br>
-      <a href="https://github.com/njpietrow/The-Verve#readme"><img src="https://media.giphy.com/media/4XYGnn0hgnIWNbUyF1/giphy.gif" alt="cart-add-gif">            </img></a>
-  </div>
-  <br>
-  <div>
-  <div>
-    <strong><a href="https://github.com/JonJWong/Hoppers#readme">Hoppers</strong></a> - MERN Stack event planning website built in collaboration with 3 other engineers <br>
-    <a href="https://github.com/JonJWong/Hoppers#readme"><img src="https://media.giphy.com/media/ToS01GnOnhWCGbjDkW/giphy.gif" alt="Hoppers-gif"></a></img>
-  </div>
-  <br>
-    <div>
-    <strong><a href="https://github.com/njpietrow/Filter.io#readme">Filter.io</strong></a> - Photobooth face filter application built using JavaScript<br>
-    <a href="https://github.com/njpietrow/Filter.io#readme"><img src="https://media.giphy.com/media/d7DzvSBdBiYGQulmFi/giphy.gif" alt="filterio-gif"></a></img>
-  </div>
-</div>
+## Recent work
 
----
-### Languages and Tools:
-<p align="left">
-  <a href="#"><img title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-  &nbsp; <a href="#"><img title="HTML5" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-  &nbsp; <a href="#"><img title="CSS3" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-  &nbsp; <a href="#"><img title="Ruby" alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></a>
-  &nbsp; <a href="#"><img title="Rails" alt="Rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" /></a>
-  &nbsp; <a href="#"><img title="JavaScript" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-  &nbsp; <a href="#"><img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-  &nbsp; <a href="#"><img title="Redux" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-  &nbsp; <a href="#"><img title="jQuery" alt="jquery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /></a>
-  &nbsp; <a href="#"><img title="Node.js" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-  &nbsp; <a href="#"><img title="MongoDB" alt="MongoDb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
-  &nbsp; <a href="#"><img title="Express.js" alt="express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
-  &nbsp; <a href="#"><img title="Python" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-  &nbsp; <a href="#"><img title="Java" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-  &nbsp; <a href="#"><img title="SQL" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-  &nbsp; <a href="#"><img title="PosgreSQL" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
-  &nbsp; <a href="#"><img title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-  &nbsp; <a href="#"><img title="Docker" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a>
-  &nbsp; <a href="#"><img title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-</p>
+Most of my professional code lives in private repos, so here's the short version.
 
----
-###
+**RetroRate** · Full-Stack Software Engineer · 2026
+- Designed and launched a RESO/OData-compliant public property API (OData v4, cursor pagination on MongoDB Atlas Search) and load-tested it in production: 9.8M properties over 19,638 pages at p95 394 ms with zero server errors.
+- Built a brokerage partner API and portal (bulk ingest, HMAC-signed webhooks, per-user API keys) and validated it in production on 91,370 listings with zero errors.
+- Delivered the company's first revenue systems: freemium quotas, paywall enforcement, Stripe subscriptions, and per-verification billing.
+- Owned ingestion across 7 MLS data feeds and stood up a listing-compliance service from scratch (Node.js, React, Terraform on GKE).
+- 489 PRs merged and 484 reviewed in 8 months.
 
-<div align="left">
-<!--   <img alt="Nick's Stats" src="https://github-readme-stats.vercel.app/api?username=njpietrow&amp;hide_border=true&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117ff&amp;theme=onedark"style="max-width: 50%;" width="490" /> -->
-  <!-- <img alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njpietrow&amp;hide_border=true&amp;bg_color=0d1117ff&amp;langs_count=8&amp;layout=compact&amp;theme=onedark"style="max-width: 50%;" width="340"/>
-  </div> -->
+**Solar Turbines** · Software Application Engineer · 2024–2026
+- Owned the turbine failure-analytics tool (Python, React/D3), added RabbitMQ/Celery async processing, and deployed it to AWS ECS Fargate behind a load balancer with health checks (99% uptime).
+
+**WorkRamp** · Full Stack Software Engineer · 2022–2023
+- Rails/React features for a learning management system: a HubSpot integration for the sales dashboard, an admin REST API and dashboard that saved 20+ hours/week, and real-time Salesforce permission checks.
+
+## Tech I work with
+
+- **Languages:** TypeScript/JavaScript, Python, C#, Ruby, SQL
+- **Backend:** Node.js/Express, .NET, Flask, Ruby on Rails, REST & OData, OAuth2/OIDC, Stripe, BullMQ, Celery/RabbitMQ
+- **Frontend:** React, Redux, D3
+- **Data:** MongoDB (Atlas Search), PostgreSQL, Redis, BigQuery
+- **Cloud & DevOps:** AWS (ECS Fargate, ECR, RDS, S3), GCP (GKE), Terraform, Docker, GitHub Actions
+- **Testing & Observability:** Jest, k6, Sentry, Honeycomb, OpenTelemetry, Datadog
+
+## Public projects
+
+- **[Filter.io](https://github.com/njpietrow/Filter.io)** — Live face filters over a webcam stream using MediaPipe Face Mesh and the Canvas API. Vanilla JavaScript.
+- **[The Verve](https://github.com/njpietrow/The-Verve)** — Full-stack e-commerce storefront inspired by Verve Coffee Roasters. Rails, React/Redux, AWS S3.
+- **[Hoppers](https://github.com/JonJWong/Hoppers)** — MERN-stack event planning app built with three other engineers.
+
+## Outside of work
+
+I enjoy surfing, golfing, and being outdoors around San Diego.
